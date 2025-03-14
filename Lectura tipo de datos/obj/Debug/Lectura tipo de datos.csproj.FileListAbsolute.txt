@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\Fabiola Rivera 20220163\Lectura tipo de datos\obj\Debug\Lectura tipo de datos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Fabiola Rivera 20220163\Lectura tipo de datos\obj\Debug\Lectura tipo de datos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Fabiola Rivera 20220163\Lectura tipo de datos\bin\Debug\Lectura tipo de datos.exe.config
+C:\Users\Estudiante\Desktop\Fabiola Rivera 20220163\Lectura tipo de datos\bin\Debug\Lectura tipo de datos.exe
+C:\Users\Estudiante\Desktop\Fabiola Rivera 20220163\Lectura tipo de datos\bin\Debug\Lectura tipo de datos.pdb
+C:\Users\Estudiante\Desktop\Fabiola Rivera 20220163\Lectura tipo de datos\obj\Debug\Lectura tipo de datos.exe
+C:\Users\Estudiante\Desktop\Fabiola Rivera 20220163\Lectura tipo de datos\obj\Debug\Lectura tipo de datos.pdb
